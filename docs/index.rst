@@ -17,12 +17,14 @@ Welcome to The AtlasXomics Documentation Page
 .. toctree::
    :caption: AtlasXplore:
 
+   Overview <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Overview.html>
    Gene Search <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/GeneSearch.html>
    Genome Browser <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/GenomeBrowser.html>
    Motif Search <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/MotifSearch.html>
    Lasso Selector <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/LassoSelector.html>
    Customization <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Customization.html>
    Plot Saving <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/SavingPlots.html>
+   FAQ <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/FAQ.html>
 
 .. toctree::
    :caption: AtlasXomics:
