@@ -29,6 +29,7 @@ Welcome to The AtlasXomics Documentation Page
 .. toctree::
    :caption: AtlasXomics:
 
+   Requirements < https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Requirements.html >
    Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
    Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
    Glossary <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Glossary.html>
