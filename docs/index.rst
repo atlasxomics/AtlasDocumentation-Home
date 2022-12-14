@@ -18,7 +18,7 @@ Welcome to The AtlasXomics Documentation Page
    :caption: AtlasXplore:
 
    Overview <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Overview.html>
-   Introduction <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Introduction.html>
+   Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
    Genome Browser <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/GenomeBrowser.html>
    Motif Search <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/MotifSearch.html>
    Lasso Selector <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/LassoSelector.html>
