@@ -31,7 +31,10 @@ Welcome to The AtlasXomics Documentation Page
 
    Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
    Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
+   
+.. toctree::
    :hidden:
+   
       Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
       Glossary <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Glossary.html>
       FAQ Spatial Epigenome <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/FAQ_Spatial_Epigenome.html>
