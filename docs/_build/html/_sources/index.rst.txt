@@ -17,18 +17,25 @@ Welcome to The AtlasXomics Documentation Page
 .. toctree::
    :caption: AtlasXplore:
 
-   Gene Search <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/GeneSearch.html>
+   Overview <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Overview.html>
+   Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
    Genome Browser <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/GenomeBrowser.html>
    Motif Search <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/MotifSearch.html>
    Lasso Selector <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/LassoSelector.html>
-   Customization <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/Customization.html>
+   Cell Type Labeling <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/CellTypeLabeling.html>
    Plot Saving <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/SavingPlots.html>
+   FAQ <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/FAQ.html>
 
 .. toctree::
-   :caption: Epigenome Data Analysis
+   :caption: AtlasXomics:
 
-   Data Pipeline <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/#dependencies>
+   Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
+   Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
+   
 
 
-
-
+..
+   Commented out, when ready add back to "AtlasXomics toctree"
+   Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
+   Glossary <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Glossary.html>
+   FAQ Spatial Epigenome <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/FAQ_Spatial_Epigenome.html>
