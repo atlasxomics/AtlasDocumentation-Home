@@ -13,6 +13,7 @@ Welcome to The AtlasXomics Documentation Page
    ROICharacterization <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/ROICharacterization.html>
    SpatialFolder <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/SpatialFolder.html>
    ExampleWalkthrough <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/ExampleWalkthrough.html>
+   UsingLatch <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/UsingLatch.html>
 
 .. toctree::
    :caption: AtlasXplore:
