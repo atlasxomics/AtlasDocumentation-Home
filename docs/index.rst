@@ -3,7 +3,7 @@ Welcome to The AtlasXomics Documentation Page
 =======================================================
 
 .. toctree::
-   :caption: AtlasXbrowser:
+   :caption: AtlasXBrowser:
 
    Overview <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/Overview.html>
    Installation <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/Installation.html>
@@ -26,12 +26,6 @@ Welcome to The AtlasXomics Documentation Page
    Cell Type Labeling <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/CellTypeLabeling.html>
    Plot Saving <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/SavingPlots.html>
    FAQ <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/FAQ.html>
-
-.. toctree::
-   :caption: AtlasXomics:
-
-   Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
-   Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
    
 
 
